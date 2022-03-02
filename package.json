@@ -1,0 +1,17 @@
+{
+  "name": "errorhook",
+  "version": "1.0.0",
+  "description": "A simple way to track errors using Discord.",
+  "main": "index.js",
+  "keywords": [
+    "error",
+    "discord",
+    "webhook"
+  ],
+  "author": "LiquidDev#5169",
+  "license": "MIT",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "os": "^0.1.2"
+  }
+}

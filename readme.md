@@ -68,4 +68,4 @@ Support the package by giving it a 🌟.
 ## 📝 License
 
 Copyright :copyright: 2022 [LiquidDev](https://github.com/ThinLiquid).<br>
-This project is under the [MIT](https://github.com/ThinLiquid/errorhook) License.
+This project is under the [MIT](https://github.com/ThinLiquid/Errorhook/blob/main/LICENSE) License.
